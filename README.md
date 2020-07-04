@@ -9,10 +9,10 @@ The two participants in the asymmetric encryption workflow are the sender and th
 # Sending encrypted text over email
   We used yagmail module of python to send email.
 # Process
-1)sender uses his email, password to send a message to reciever
-2)He enters public key.
-ex: 189
-3)This public key itself is converted to a private and unknown key by appending some random number using randint().
-ex: 189657391749
-4)Now the encrypted message email is sent to the reciever and the decrypting key is with the sender only.
+1)sender uses his email, password to send a message to reciever. <br />
+2)He enters public key. <br />
+ex: 189 <br />
+3)This public key itself is converted to a private and unknown key by appending some random number using randint(). <br />
+ex: 189657391749 <br />
+4)Now the encrypted message email is sent to the reciever and the decrypting key is with the sender only. <br />
 5)when the sender gives the private key to reciever, he can enter the encrypted text and privte key to decrypt the message.
