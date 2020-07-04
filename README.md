@@ -16,3 +16,6 @@ ex: 189 <br />
 ex: 189657391749 <br />
 4)Now the encrypted message email is sent to the reciever and the decrypting key is with the sender only. <br />
 5)when the sender gives the private key to reciever, he can enter the encrypted text and privte key to decrypt the message.
+
+# Note:
+1) the sender has to allow the option to send the email from this program from https://myaccount.google.com/u/4/lesssecureapps?pli=1
